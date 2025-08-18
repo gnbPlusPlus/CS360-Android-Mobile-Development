@@ -17,7 +17,7 @@ I heeded the compiler and corrected any errors as they came up. I also paid atte
 
 Consider the full app design and development process from initial planning to finalization. Where did you have to innovate to overcome a challenge?
 --
-I "innovated" by toning down my original UI design. This might sound counterintuitive, but it was a valuable lesson in designing with development in mind, because when I sat down to work with my wireframe, I felt overwhelmed. For future designs, I'll think about how layouts lend themselves to placing (and moving) different visual elements. Innovation can then be born from creating development-friendly designs that don't have to sacrifice visual appeal. 
+I "innovated" by toning down my original UI design. This might sound counterintuitive, but it was a valuable lesson in designing with development in mind, because when I sat down to work with my wireframe, I felt overwhelmed. For future designs, I'll think about how layouts lend themselves to placing (and moving) different visual elements. Innovation can then be born from creating development-friendly designs that don't have to sacrifice visual appeal or functionality.
 
 In what specific component of your mobile app were you particularly successful in demonstrating your knowledge, skills, and experience?
 --
