@@ -9,11 +9,11 @@ The app needed a minimum of the following screens to fulfill its basic functiona
 
 How did you approach the process of coding your app? What techniques or strategies did you use? How could those techniques or strategies be applied in the future?
 --
-I approached coding the app by working in chunks, although many chunks overlapped throughout development. The database
+I approached coding the app by working in chunks, although many chunks overlapped throughout development. I referenced specific chapters in my textbook for code regarding the database, adapter, model, and fragments. I relied on GeeksForGeeks articles, among others, for specific questions that my textbook couldn't answer, such as what to do for a mock SMS implementation. Android Studio feels like its own world when it comes to coding, so I used these sources to understand the syntax, and I began recognizing patterns along the way. In the future, this pattern recognition will be a huge benefit, since I'll understand the general structure of an app better. Also, because my app referenced a lot of helpful sources, it now acts as a reference itself for my future work.
 
 How did you test to ensure your code was functional? Why is this process important, and what did it reveal?
 --
-I heeded the compiler and corrected any errors as they came up. I also paid attention to warnings and refactored my code as needed, such as by giving variables local instead of global scope. Testing the app in the emulator was how I weeded out bugs that the compiler couldn't catch. 
+I heeded the compiler and corrected any errors as they came up. I also paid attention to warnings and refactored my code as needed, such as by giving variables local instead of global scope. Testing the app in the emulator was how I weeded out bugs that the compiler couldn't catch. Events for other users were coming up for new users, and I realized I mistyped COLUMN_EVENT_USER_ID as COLUMN_USER_ID, for example.
 
 Consider the full app design and development process from initial planning to finalization. Where did you have to innovate to overcome a challenge?
 --
