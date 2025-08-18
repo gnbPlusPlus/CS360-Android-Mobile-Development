@@ -1,7 +1,7 @@
 # CS360-Android-Mobile-Development
 Briefly summarize the requirements and goals of the app you developed. What user needs was this app designed to address?
 --
-The app is an event tracker that supports account creation and stores event names and dates in a database. These stored events are separated by ID values so that different users see only their events. Users are able to add, edit, and delete events, and they may allow SMS notifications that send event reminders, as well.
+The app is an event tracker that supports account creation and stores event names and dates in a database. These stored events are separated by ID values so that different users see only their events. Users are able to create an account, log in with their credentials, and add, edit, and delete events. They may allow SMS notifications that send event reminders, as well.
 
 What screens and features were necessary to support user needs and produce a user-centered UI for the app? How did your UI designs keep users in mind? Why were your designs successful?
 --
