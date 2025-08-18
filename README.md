@@ -13,7 +13,7 @@ I approached coding the app by working in chunks, although many chunks overlappe
 
 How did you test to ensure your code was functional? Why is this process important, and what did it reveal?
 --
-I heeded the compiler and corrected any errors as they came up. I also paid attention to warnings and refactored my code as needed, such as by giving variables local instead of global scope. Testing the app in the emulator was how I weeded out bugs that the compiler couldn't catch. Events for other users were coming up for new users, and I realized I mistyped COLUMN_EVENT_USER_ID as COLUMN_USER_ID, for example.
+I heeded the compiler and corrected any errors as they came up. I also paid attention to warnings and refactored my code as needed, such as by giving variables local instead of global scope. Testing the app in the emulator was how I weeded out bugs that the compiler couldn't catch. Events for other users were coming up for new users, and I realized I mistyped COLUMN_EVENT_USER_ID as COLUMN_USER_ID, for example, when creating the Events table in the database.
 
 Consider the full app design and development process from initial planning to finalization. Where did you have to innovate to overcome a challenge?
 --
