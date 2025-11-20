@@ -1,4 +1,12 @@
 # CS360-Android-Mobile-Development
+
+<div style="display:flex; flex-direction:row;">
+  <img src="/assets/images/planly_login.PNG" width="225px">
+  <img src="/assets/images/planly_signup.PNG" width="225px">
+  <img src="/assets/images/planly_selectDate.PNG" width="226px">
+  <img src="/assets/images/planly_events.PNG" width="228px">
+</div>
+
 Briefly summarize the requirements and goals of the app you developed. What user needs was this app designed to address?
 --
 The app is an event tracker that supports account creation and stores event names and dates in a database. These stored events are separated by ID values so that different users see only their events. Users are able to create an account, log in with their credentials, and add, edit, and delete events. They may allow SMS notifications that send event reminders, as well.
