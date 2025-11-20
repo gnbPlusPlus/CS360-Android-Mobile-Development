@@ -1,10 +1,10 @@
 # CS360-Android-Mobile-Development
 
 <div style="display:flex; flex-direction:row;">
-  <img src="/assets/images/planly_login.PNG" width="205px">
-  <img src="/assets/images/planly_signup.PNG" width="205px">
-  <img src="/assets/images/planly_selectDate.PNG" width="206px">
-  <img src="/assets/images/planly_events.PNG" width="208px">
+  <img src="/assets/images/planly_login.PNG" width="200px">
+  <img src="/assets/images/planly_signup.PNG" width="200px">
+  <img src="/assets/images/planly_selectDate.PNG" width="201px">
+  <img src="/assets/images/planly_events.PNG" width="203px">
 </div>
 
 Briefly summarize the requirements and goals of the app you developed. What user needs was this app designed to address?
